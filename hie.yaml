@@ -1,0 +1,5 @@
+cradle:
+  cabal:
+    component: "codewars-haskell:exe:codewars-haskell"
+dependencies:
+  - codewars-haskell.cabal
